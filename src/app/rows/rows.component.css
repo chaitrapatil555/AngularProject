@@ -1,0 +1,17 @@
+.box{
+    width: 50%;
+    border:1px solid indigo;
+    border-radius: 25px;
+    padding: 0px 20px 20px 20px;
+    margin-left: 400px;
+}
+label{
+    color: brown  ;
+    text-size-adjust:5px ;
+    }
+    h2{
+    text-align: center;
+    }
+    h3{
+        text-align: center;
+    }
